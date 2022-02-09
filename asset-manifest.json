@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/http//MrITACHI008.github.io/Foodiess/static/css/main.005a9ae0.css",
+    "main.js": "/http//MrITACHI008.github.io/Foodiess/static/js/main.c7d8317a.js",
+    "static/media/meal.mp4": "/http//MrITACHI008.github.io/Foodiess/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
+    "static/media/bg.png": "/http//MrITACHI008.github.io/Foodiess/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/welcome.png": "/http//MrITACHI008.github.io/Foodiess/static/media/welcome.d724eb984456d9c97470.png",
+    "static/media/findus.png": "/http//MrITACHI008.github.io/Foodiess/static/media/findus.585c393ccd3671513743.png",
+    "static/media/laurels.png": "/http//MrITACHI008.github.io/Foodiess/static/media/laurels.e760828692795d4aafd7.png",
+    "static/media/chef.png": "/http//MrITACHI008.github.io/Foodiess/static/media/chef.02d6c5b61bfdc70303b4.png",
+    "static/media/menu.png": "/http//MrITACHI008.github.io/Foodiess/static/media/menu.a8287c67809afebcc280.png",
+    "static/media/gallery04.png": "/http//MrITACHI008.github.io/Foodiess/static/media/gallery04.c36a695f8a3b9d311106.png",
+    "static/media/gallery03.png": "/http//MrITACHI008.github.io/Foodiess/static/media/gallery03.b2d50180e8590d4dd330.png",
+    "static/media/gallery02.png": "/http//MrITACHI008.github.io/Foodiess/static/media/gallery02.27663bd9016b72ccd328.png",
+    "static/media/gallery01.png": "/http//MrITACHI008.github.io/Foodiess/static/media/gallery01.f2cbffe3049d6f91e0df.png",
+    "static/media/knife.png": "/http//MrITACHI008.github.io/Foodiess/static/media/knife.1121c0a5afb62acb31cb.png",
+    "static/media/overlaybg.png": "/http//MrITACHI008.github.io/Foodiess/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/G.png": "/http//MrITACHI008.github.io/Foodiess/static/media/G.b571eb82e589ec305ec9.png",
+    "static/media/logo.png": "/http//MrITACHI008.github.io/Foodiess/static/media/logo.0286194c03de0a90dac9.png",
+    "static/media/award02.png": "/http//MrITACHI008.github.io/Foodiess/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/award05.png": "/http//MrITACHI008.github.io/Foodiess/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "/http//MrITACHI008.github.io/Foodiess/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/award03.png": "/http//MrITACHI008.github.io/Foodiess/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "static/media/sign.png": "/http//MrITACHI008.github.io/Foodiess/static/media/sign.9bf0bd90ad4caa17991f.png",
+    "index.html": "/http//MrITACHI008.github.io/Foodiess/index.html",
+    "static/media/spoon.svg": "/http//MrITACHI008.github.io/Foodiess/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
+    "main.005a9ae0.css.map": "/http//MrITACHI008.github.io/Foodiess/static/css/main.005a9ae0.css.map",
+    "main.c7d8317a.js.map": "/http//MrITACHI008.github.io/Foodiess/static/js/main.c7d8317a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.005a9ae0.css",
+    "static/js/main.c7d8317a.js"
+  ]
+}
